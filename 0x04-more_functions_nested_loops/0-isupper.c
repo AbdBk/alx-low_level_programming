@@ -2,7 +2,7 @@
 
 /**
  * _isupper - checks uppercase
- *@c: parameter
+ * @c: parameter
  * Return: 0 if successful
  */
 
